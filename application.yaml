@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Umarali-99/K8s-demo-ArgoCD
+    repoURL: https://github.com/Umarali-99/K8s-demo-argo
     targetRevision: HEAD
     path: k8s
   destination: 
